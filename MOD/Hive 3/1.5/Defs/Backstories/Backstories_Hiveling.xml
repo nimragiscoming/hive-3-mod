@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveBackstoryOld</defName>
+		<title>vat created</title>
+		<titleShort>created</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Adulthood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+
+	</AlienRace.AlienBackstoryDef>
+
+
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveBackstoryA</defName>
+		<title>vat created</title>
+		<titleShort>created</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Animals>5</Animals>
+		</skillGains>
+	
+	</AlienRace.AlienBackstoryDef>
+	
+		
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryB</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Artistic>5</Artistic>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryC</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Construction>5</Construction>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+	
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryD</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Crafting>5</Crafting>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+	
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryE</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Medicine>5</Medicine>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+	
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryF</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Melee>5</Melee>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+	
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryG</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Mining>5</Mining>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+	
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryH</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Intellectual>5</Intellectual>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+	
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryI</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Plants>5</Plants>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+	
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryJ</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Shooting>5</Shooting>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+	
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryK</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Social>5</Social>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+	
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstoryL</defName>
+		<title>Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>[PAWN_nameDef] is a being grown in a Bio-Vat, born into a Hivemind</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Cooking>5</Cooking>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+	
+	<AlienRace.AlienBackstoryDef>
+		<defName>HiveHumanBackstorySuper</defName>
+		<title>Advanced Hiveling</title>
+		<titleShort>Hiveling</titleShort>
+		<baseDesc>Occasionally, things go better than expected in a Bio-Vat, and a truly exceptional creature emerges. [PAWN_nameDef] is one of these creatures.</baseDesc>
+		<slot>Childhood</slot>
+		<spawnCategories>
+			<li>Hive_Backstory_Basic</li>
+		</spawnCategories>
+		<skillGains>
+			<Cooking>5</Cooking>
+			<Social>5</Social>
+			<Shooting>5</Shooting>
+			<Plants>5</Plants>
+			<Intellectual>5</Intellectual>
+			<Mining>5</Mining>
+			<Melee>5</Melee>
+			<Medicine>5</Medicine>
+			<Crafting>5</Crafting>
+			<Construction>5</Construction>
+			<Artistic>5</Artistic>
+			<Animals>5</Animals>
+		</skillGains>
+	</AlienRace.AlienBackstoryDef>
+
+</Defs>

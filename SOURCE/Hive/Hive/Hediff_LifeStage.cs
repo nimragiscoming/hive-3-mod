@@ -74,7 +74,7 @@ namespace Hive
                 }
             }
 
-            Apparel
+            //Apparel
 
             if (this.CurStageIndex != this.lastStage)
             {

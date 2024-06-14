@@ -4,7 +4,10 @@
 	<ThingDef ParentName="BenchBase">
 		<defName>HiveBiovat</defName>
 		<label>Biovat</label>
-		<description>A biological vat for growing hive creatures in. Must be filled with Nutrient Goo to function</description>
+		<description>A biological vat for growing hive creatures in. Must be filled with Nutrient Goo to function. 
+		Base: 32 Fuel. 
+		1 Upgrade: 25 Fuel
+		2 Upgrades: 20 Fuel</description>
 		<thingClass>Hive.Building_CasteSpawner</thingClass>
 		<graphicData>
 			<texPath>Things/Buildings/CasteSpawner/CasteSpawner</texPath>

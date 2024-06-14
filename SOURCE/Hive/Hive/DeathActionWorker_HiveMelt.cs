@@ -6,13 +6,14 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 using Verse;
+using Verse.AI.Group;
 
 namespace Hive
 {
     public class DeathActionWorker_HiveMelt : DeathActionWorker
     {
 
-        public override void PawnDied(Corpse corpse)
+        public override void PawnDied(Corpse corpse, Lord prevLord)
         {
             corpse.InnerPawn.ideo.SetIdeo(null);
 
