@@ -15,3 +15,8 @@ F:\SteamLibrary\steamapps\common\RimWorld\Mods\Hive 3 DEV\1.4\Assemblies\Hive\Hi
 F:\SteamLibrary\steamapps\common\RimWorld\Mods\Hive 3 DEV\1.4\Assemblies\Hive\Hive\obj\Debug\Hive.csproj.CoreCompileInputs.cache
 F:\SteamLibrary\steamapps\common\RimWorld\Mods\Hive 3 DEV\1.4\Assemblies\Hive\Hive\obj\Debug\Hive.dll
 F:\SteamLibrary\steamapps\common\RimWorld\Mods\Hive 3 DEV\1.4\Assemblies\Hive.dll
+H:\Downloads\hive-3-mod-main\SOURCE\Hive\Hive\obj\Debug\Hive.csproj.AssemblyReference.cache
+H:\Downloads\hive-3-mod-main\SOURCE\Hive\Hive\obj\Debug\Hive.csproj.CoreCompileInputs.cache
+H:\Downloads\hive-3-mod-main\SOURCE\Hive\Hive\obj\Debug\Hive.dll
+H:\Hive 3\1.4\Assemblies\Hive.dll
+H:\Downloads\hive-3-mod-main\SOURCE\Hive\Hive\obj\Debug\Hive.csproj.Up2Date

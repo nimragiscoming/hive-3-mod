@@ -114,7 +114,7 @@ namespace Hive
         {
             PawnCapacityDefOf.Talking,
             PawnCapacityDefOf.Hearing,
-            PawnCapacityDefOf.Eating,
+            //PawnCapacityDefOf.Eatingspeed, doesnt exist anymore, dunno what to replace it with, praying ensues
             PawnCapacityDefOf.Sight
 
         };

@@ -12,7 +12,7 @@ namespace Hive
     {
         Pawn pawn => parent as Pawn;
 
-        public override void PostPreApplyDamage(DamageInfo dinfo, out bool absorbed)
+        public override void PostPreApplyDamage(ref DamageInfo dinfo, out bool absorbed)
         {
 
             if (pawn.health.ShouldBeDead() || pawn.health.ShouldBeDeadFromLethalDamageThreshold())
@@ -21,7 +21,7 @@ namespace Hive
                 HiveTools.CleanKill(pawn, null, null, true);
             }
 
-            base.PostPreApplyDamage(dinfo, out absorbed);
+            base.PostPreApplyDamage(ref dinfo, out absorbed);
         }
 
         public CompProperties_Hiveling Props => (CompProperties_Hiveling)this.props;
